@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "name": "Ice Cream",
+      "price": "200",
+      "category": "dessert",
+      "id": 3
+    },
+    {
+      "name": "Tiramisu",
+      "price": "300",
+      "category": "salad",
+      "id": 4
+    },
+    {
+      "name": "Chicken Salad",
+      "price": "100",
+      "category": "salad",
+      "id": 6
+    },
+    {
+      "name": "Testing Boy",
+      "price": "300",
+      "category": "dessert",
+      "id": 7
+    }
+  ]
+}
